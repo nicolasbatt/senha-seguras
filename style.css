@@ -108,6 +108,45 @@ body {
     margin: 0;
     font-size: 24px;
 }
+rótulo{
+tamanho da fonte: 20px;
+]
+
+.caixa de seleção[
+    largura: 20px;
+    altura: 20px;
+    cursor:ponteiro;
+]
+
+.barra[
+    cor de fundo: var(--fundo-senha);
+    altura: 30px;
+    largura: 100%;
+]
+
+.força[
+    altura: 30px;
+    posição:parente;
+    fundo: 30px;
+    [
+
+    .fracasso[
+        .fracasso[
+                largura:25%
+        
+    ]
+    ]
+]
+]
+]
+
+}
+}
+
+
+
+
+
 
 @media screen and (min-width: 768px) {
     .parametro-coluna__senha {
